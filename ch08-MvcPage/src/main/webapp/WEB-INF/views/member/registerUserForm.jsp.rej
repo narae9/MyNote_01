@@ -1,9 +1,0 @@
-diff a/ch08-MvcPage/src/main/webapp/WEB-INF/views/member/registerUserForm.jsp b/ch08-MvcPage/src/main/webapp/WEB-INF/views/member/registerUserForm.jsp	(rejected hunks)
-@@ -0,6 +0,7 @@
-     pageEncoding="UTF-8"%>
- <!DOCTYPE html>
- <html>
-+<head>
- <meta charset="UTF-8">
- <title>회원가입</title>
- <link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css" type="text/css">
